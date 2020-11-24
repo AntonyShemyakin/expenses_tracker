@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<expenses>
+  <expense date="24.10.2020" category="Образование" amount="900">
+    Книжка по Ruby on Rails
+  </expense>
+  <expense date="23.12.2020" category="Продукты питания" amount="500">
+    Колбаса и сыр
+  </expense>
+  <expense date="25.11.2020" category="Хоз.часть" amount="200">
+    Мыло и порошок
+  </expense>
+</expenses>
